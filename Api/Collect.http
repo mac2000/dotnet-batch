@@ -1,0 +1,2 @@
+### Collect
+GET localhost:5000/collect?name={{$uuid}}
